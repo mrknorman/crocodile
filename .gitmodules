@@ -1,0 +1,3 @@
+[submodule "cuphenom"]
+	path = cuphenom
+	url = https://github.com/mrknorman/cuphenom.git
